@@ -1,0 +1,396 @@
+[
+  {
+    "operatorId": "DI-28972",
+    "companyName": "Sociedad Agricola Fruticola Forestal y Ganadera Martini Blueberries Ltda.",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "blueberries",
+        "certification": "Demeter"
+      },
+      {
+        "name": "packed fruit",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-29508",
+    "companyName": "SOCIEDAD AGRICOLA VALDEPERILLO SPA",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "herbs & spices",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-29541",
+    "companyName": "Empresas Vitivinícolas S.A.    Viñedos Veramonte",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "fodder & grassland",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-25023",
+    "companyName": "Vinedos Emiliana S.A. - Bodega Los Robles, Bodega Las Palmeras, Bodega Maipo",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-25210",
+    "companyName": "Commercial Antiyal y Cia. Ltda.  Finca Escorial & Finca Los Olivos",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "olives",
+        "certification": "Demeter"
+      },
+      {
+        "name": "fodder & grassland",
+        "certification": "Demeter"
+      },
+      {
+        "name": "almonds",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-28112",
+    "companyName": "MATETIC WINE GROUP S.A.  Fundo el Rosario",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-28119",
+    "companyName": "Viña Koyle S. A.  Fundo el Carmen",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wine (red)",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-28246",
+    "companyName": "Viña Hacienda Araucano SpA.",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": []
+  },
+  {
+    "operatorId": "DI-28321",
+    "companyName": "Vinedos Emiliana S.A. - Farms",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "grapes (for wine)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "olives",
+        "certification": "Demeter"
+      },
+      {
+        "name": "fallow",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-28061",
+    "companyName": "MIGUEL LUIS ELISSALT HERRERA",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "apples",
+        "certification": "Demeter"
+      },
+      {
+        "name": "kiwifruit (green)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "pears",
+        "certification": "Demeter"
+      },
+      {
+        "name": "raspberries",
+        "certification": "Demeter"
+      },
+      {
+        "name": "oats (spring)",
+        "certification": "Demeter"
+      },
+      {
+        "name": "wheat",
+        "certification": "Demeter"
+      },
+      {
+        "name": "seedlings",
+        "certification": "Demeter"
+      },
+      {
+        "name": "vegetables",
+        "certification": "Demeter"
+      },
+      {
+        "name": "fallow",
+        "certification": "Demeter"
+      }
+    ]
+  },
+  {
+    "operatorId": "DI-29929",
+    "companyName": "Ama Time Spa",
+    "location": {
+      "address": null,
+      "city": null,
+      "region": null,
+      "country": "Chile"
+    },
+    "contact": {},
+    "certification": {
+      "status": "Demeter",
+      "exportCapability": false
+    },
+    "products": [
+      {
+        "name": "apple puree",
+        "certification": "Demeter"
+      }
+    ]
+  }
+]
