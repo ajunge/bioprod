@@ -2,17 +2,17 @@
   {
     "id": "agr-ceres",
     "nombre": "Agr Ceres",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 32.730000000000004
   },
   {
     "id": "agricola-calendula-ltda",
     "nombre": "Agricola Calendula Ltda",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 94,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "PUERTO OCTAY",
     "email": "mrlischka@gmail.com",
     "whatsapp": "56998836130.0"
@@ -20,17 +20,17 @@
   {
     "id": "agricola-mirarios",
     "nombre": "Agricola Mirarios",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 66.46
   },
   {
     "id": "alimentos-buencampo-spa",
     "nombre": "Alimentos Buencampo SPA",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 98,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "CHEPICA",
     "email": "rosita@buencampo.cl",
     "whatsapp": "56990436406.0"
@@ -38,33 +38,51 @@
   {
     "id": "alquimia-pura",
     "nombre": "ALQUIMIA PURA",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 18,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "Con Con"
+  },
+  {
+    "id": "ama-time-spa",
+    "nombre": "Ama Time Spa",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-29929",
+    "exportacion": false
   },
   {
     "id": "antiyal",
     "nombre": "Antiyal",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 4,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 10.94
   },
   {
     "id": "araucano",
     "nombre": "Araucano",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 28.06
+  },
+  {
+    "id": "commercial-antiyal-y-cia-ltda-finca-escorial-finca-los-olivos",
+    "nombre": "Commercial Antiyal y Cia. Ltda.  Finca Escorial & Finca Los Olivos",
+    "certificacion": "Demeter",
+    "total_productos": 10,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-25210",
+    "exportacion": false
   },
   {
     "id": "crisol",
     "nombre": "CRISOL",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 12,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "La Cruz",
     "email": "marcelagarciato@gmail.com",
     "whatsapp": "56985374849.0"
@@ -72,187 +90,268 @@
   {
     "id": "el-molino",
     "nombre": "EL MOLINO",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 42,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "Buin"
   },
   {
     "id": "emiliana-casablanca-y-cordillera",
     "nombre": "Emiliana Casablanca y Cordillera",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 273.47
   },
   {
     "id": "emiliana-las-palmeras",
     "nombre": "Emiliana las palmeras",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 127.73
   },
   {
     "id": "emiliana-los-morros",
     "nombre": "Emiliana Los Morros",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 47.94
   },
   {
     "id": "emiliana-los-robles",
     "nombre": "Emiliana Los robles",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 150.07
   },
   {
     "id": "emiliana-totihue",
     "nombre": "Emiliana Totihue",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 3,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 146.51
+  },
+  {
+    "id": "empresas-vitivinícolas-sa-viñedos-veramonte",
+    "nombre": "Empresas Vitivinícolas S.A.    Viñedos Veramonte",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-29541",
+    "exportacion": false
   },
   {
     "id": "fanoa",
     "nombre": "Fanoa",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 4,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 13.67
   },
   {
     "id": "huertos-huaiquivilo",
     "nombre": "HUERTOS HUAIQUIVILO",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "Certificado",
     "total_productos": 8,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "Longavi"
   },
   {
     "id": "jc-plaza",
     "nombre": "JC PLAZA",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 1,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "La Serena"
   },
   {
     "id": "koyle",
     "nombre": "Koyle",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 66.27
   },
   {
     "id": "leticia-vallejos",
     "nombre": "LETICIA VALLEJOS",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 5,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "Ñuble"
   },
   {
     "id": "martini",
     "nombre": "Martini",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 28.599999999999998
   },
   {
     "id": "matetic-el-rosario",
     "nombre": "Matetic El rosario",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 3,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 167.98000000000002
+  },
+  {
+    "id": "matetic-wine-group-sa-fundo-el-rosario",
+    "nombre": "MATETIC WINE GROUP S.A.  Fundo el Rosario",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28112",
+    "exportacion": false
+  },
+  {
+    "id": "miguel-luis-elissalt-herrera",
+    "nombre": "MIGUEL LUIS ELISSALT HERRERA",
+    "certificacion": "Demeter",
+    "total_productos": 9,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28061",
+    "exportacion": false
   },
   {
     "id": "muigel-ellisalt",
     "nombre": "Muigel Ellisalt",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 9,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 107.7
   },
   {
     "id": "odfjell-phurtado",
     "nombre": "Odfjell P.Hurtado",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 81.60000000000001
   },
   {
     "id": "odfjell-rio-claro",
     "nombre": "Odfjell Rio Claro",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 6.53
   },
   {
     "id": "odfjell-tres-esquinas",
     "nombre": "Odfjell Tres esquinas",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 16.9
   },
   {
     "id": "rio-chepu-chaignal",
     "nombre": "Rio Chepu, Chaignal",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 41.1
   },
   {
     "id": "rio-chepu-lo-tordos",
     "nombre": "Rio Chepu, Lo tordos",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 1,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 14.3
   },
   {
     "id": "santa-ana",
     "nombre": "SANTA ANA",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 9,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "La Serena",
     "email": "egalvezy@hotmail.com",
     "whatsapp": "56968579120.0"
   },
   {
+    "id": "sociedad-agricola-fruticola-forestal-y-ganadera-martini-blueberries-ltda",
+    "nombre": "Sociedad Agricola Fruticola Forestal y Ganadera Martini Blueberries Ltda.",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28972",
+    "exportacion": false
+  },
+  {
+    "id": "sociedad-agricola-valdeperillo-spa",
+    "nombre": "SOCIEDAD AGRICOLA VALDEPERILLO SPA",
+    "certificacion": "Demeter",
+    "total_productos": 3,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-29508",
+    "exportacion": false
+  },
+  {
     "id": "tipaume",
     "nombre": "Tipaume",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 4,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 16.84
   },
   {
     "id": "truferos-grau",
     "nombre": "TRUFEROS GRAU",
-    "tipo": "Sistema Participativo de Garantía",
     "certificacion": "En transicion",
     "total_productos": 1,
+    "tipo": "Sistema Participativo de Garantía",
     "ciudad": "Futrono"
   },
   {
     "id": "valdeperillo",
     "nombre": "Valdeperillo",
-    "tipo": "Certificación Demeter",
     "certificacion": "Demeter",
     "total_productos": 2,
+    "tipo": "Certificación Demeter",
     "total_hectareas": 2.15
+  },
+  {
+    "id": "vinedos-emiliana-sa-bodega-los-robles-bodega-las-palmeras-bodega-maipo",
+    "nombre": "Vinedos Emiliana S.A. - Bodega Los Robles, Bodega Las Palmeras, Bodega Maipo",
+    "certificacion": "Demeter",
+    "total_productos": 10,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-25023",
+    "exportacion": false
+  },
+  {
+    "id": "vinedos-emiliana-sa-farms",
+    "nombre": "Vinedos Emiliana S.A. - Farms",
+    "certificacion": "Demeter",
+    "total_productos": 4,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28321",
+    "exportacion": false
+  },
+  {
+    "id": "viña-hacienda-araucano-spa",
+    "nombre": "Viña Hacienda Araucano SpA.",
+    "certificacion": "Demeter",
+    "total_productos": 0,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28246",
+    "exportacion": false
+  },
+  {
+    "id": "viña-koyle-s-a-fundo-el-carmen",
+    "nombre": "Viña Koyle S. A.  Fundo el Carmen",
+    "certificacion": "Demeter",
+    "total_productos": 10,
+    "tipo": "Certificación Demeter",
+    "operador_id": "DI-28119",
+    "exportacion": false
   }
 ]

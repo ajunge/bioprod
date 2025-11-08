@@ -1,0 +1,24 @@
+{
+  "nombre": "Empresas Vitivinícolas S.A.    Viñedos Veramonte",
+  "operador_id": "DI-29541",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "fodder & grassland",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 2,
+  "pais": "Chile"
+}

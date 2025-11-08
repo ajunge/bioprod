@@ -1,0 +1,56 @@
+{
+  "nombre": "Viña Koyle S. A.  Fundo el Carmen",
+  "operador_id": "DI-28119",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 10,
+  "pais": "Chile"
+}

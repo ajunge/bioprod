@@ -1,0 +1,28 @@
+{
+  "nombre": "SOCIEDAD AGRICOLA VALDEPERILLO SPA",
+  "operador_id": "DI-29508",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "herbs & spices",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 3,
+  "pais": "Chile"
+}

@@ -1,0 +1,52 @@
+{
+  "nombre": "MIGUEL LUIS ELISSALT HERRERA",
+  "operador_id": "DI-28061",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "apples",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "kiwifruit (green)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "pears",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "raspberries",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "oats (spring)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wheat",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "seedlings",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "vegetables",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "fallow",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 9,
+  "pais": "Chile"
+}

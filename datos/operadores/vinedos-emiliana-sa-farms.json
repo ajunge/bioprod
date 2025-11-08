@@ -1,0 +1,32 @@
+{
+  "nombre": "Vinedos Emiliana S.A. - Farms",
+  "operador_id": "DI-28321",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "olives",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "fallow",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 4,
+  "pais": "Chile"
+}

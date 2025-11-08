@@ -1,0 +1,56 @@
+{
+  "nombre": "Vinedos Emiliana S.A. - Bodega Los Robles, Bodega Las Palmeras, Bodega Maipo",
+  "operador_id": "DI-25023",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "wine (red)",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 10,
+  "pais": "Chile"
+}

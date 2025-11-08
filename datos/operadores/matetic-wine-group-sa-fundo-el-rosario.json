@@ -1,0 +1,20 @@
+{
+  "nombre": "MATETIC WINE GROUP S.A.  Fundo el Rosario",
+  "operador_id": "DI-28112",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "grapes (for wine)",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 1,
+  "pais": "Chile"
+}

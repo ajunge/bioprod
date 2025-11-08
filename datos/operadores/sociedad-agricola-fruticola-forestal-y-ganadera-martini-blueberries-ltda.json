@@ -1,0 +1,24 @@
+{
+  "nombre": "Sociedad Agricola Fruticola Forestal y Ganadera Martini Blueberries Ltda.",
+  "operador_id": "DI-28972",
+  "certificacion": "Demeter",
+  "tipo_operador": "",
+  "exportacion": false,
+  "certificador": "",
+  "fecha_validez": "",
+  "fuente": "Demeter.net (2025)",
+  "tipo_fuente": "Certificación Demeter",
+  "fecha_extraccion": "2025-11-08",
+  "productos": [
+    {
+      "producto": "blueberries",
+      "certificacion": "Demeter"
+    },
+    {
+      "producto": "packed fruit",
+      "certificacion": "Demeter"
+    }
+  ],
+  "total_productos": 2,
+  "pais": "Chile"
+}
