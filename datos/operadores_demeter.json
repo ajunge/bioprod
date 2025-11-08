@@ -1,0 +1,412 @@
+[
+  {
+    "nombre": "Muigel Ellisalt",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "frambuesa",
+        "hectareas": 0.6
+      },
+      {
+        "producto": "Manzana",
+        "hectareas": 64.41
+      },
+      {
+        "producto": "Kiwi",
+        "hectareas": 0.5
+      },
+      {
+        "producto": "peras",
+        "hectareas": 14.8
+      },
+      {
+        "producto": "Vegetales",
+        "hectareas": 0.5
+      },
+      {
+        "producto": "avena",
+        "hectareas": 6.31
+      },
+      {
+        "producto": "trigo",
+        "hectareas": 1.2
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 16.62
+      },
+      {
+        "producto": "Seedlings",
+        "hectareas": 2.76
+      }
+    ],
+    "total_hectareas": 107.7
+  },
+  {
+    "nombre": "Agr Ceres",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Arándanos",
+        "hectareas": 31.03
+      },
+      {
+        "producto": "frutas",
+        "hectareas": 1.7
+      }
+    ],
+    "total_hectareas": 32.730000000000004
+  },
+  {
+    "nombre": "Martini",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Arándanos",
+        "hectareas": 25.7
+      },
+      {
+        "producto": "Hierbas",
+        "hectareas": 2.9
+      }
+    ],
+    "total_hectareas": 28.599999999999998
+  },
+  {
+    "nombre": "Antiyal",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 9.34
+      },
+      {
+        "producto": "Almendras",
+        "hectareas": 0.5
+      },
+      {
+        "producto": "alfalfa",
+        "hectareas": 1.0
+      },
+      {
+        "producto": "olivos",
+        "hectareas": 0.1
+      }
+    ],
+    "total_hectareas": 10.94
+  },
+  {
+    "nombre": "Emiliana Casablanca y Cordillera",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 271.47
+      },
+      {
+        "producto": "olivos",
+        "hectareas": 2.0
+      }
+    ],
+    "total_hectareas": 273.47
+  },
+  {
+    "nombre": "Emiliana las palmeras",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 127.73
+      }
+    ],
+    "total_hectareas": 127.73
+  },
+  {
+    "nombre": "Emiliana Los Morros",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 47.73
+      },
+      {
+        "producto": "olivos",
+        "hectareas": 0.21
+      }
+    ],
+    "total_hectareas": 47.94
+  },
+  {
+    "nombre": "Emiliana Los robles",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 145.07
+      },
+      {
+        "producto": "olivos",
+        "hectareas": 5.0
+      }
+    ],
+    "total_hectareas": 150.07
+  },
+  {
+    "nombre": "Emiliana Totihue",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "+ conv",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 141.38
+      },
+      {
+        "producto": "olivos",
+        "hectareas": 1.0
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 4.13
+      }
+    ],
+    "total_hectareas": 146.51
+  },
+  {
+    "nombre": "Tipaume",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "+conv",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 5.63
+      },
+      {
+        "producto": "alfalfa",
+        "hectareas": 8.3
+      },
+      {
+        "producto": "bosque",
+        "hectareas": 1.0
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 1.91
+      }
+    ],
+    "total_hectareas": 16.84
+  },
+  {
+    "nombre": "Araucano",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 26.36
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 1.7
+      }
+    ],
+    "total_hectareas": 28.06
+  },
+  {
+    "nombre": "Koyle",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 66.27
+      }
+    ],
+    "total_hectareas": 66.27
+  },
+  {
+    "nombre": "Matetic El rosario",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 130.48
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 37.2
+      },
+      {
+        "producto": "Seedlings",
+        "hectareas": 0.3
+      }
+    ],
+    "total_hectareas": 167.98000000000002
+  },
+  {
+    "nombre": "Odfjell Rio Claro",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 6.53
+      }
+    ],
+    "total_hectareas": 6.53
+  },
+  {
+    "nombre": "Odfjell Tres esquinas",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 16.9
+      }
+    ],
+    "total_hectareas": 16.9
+  },
+  {
+    "nombre": "Odfjell P.Hurtado",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 68.4
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 13.2
+      }
+    ],
+    "total_hectareas": 81.60000000000001
+  },
+  {
+    "nombre": "Fanoa",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 2.14
+      },
+      {
+        "producto": "Vegetales",
+        "hectareas": 0.5
+      },
+      {
+        "producto": "grassland",
+        "hectareas": 4.51
+      },
+      {
+        "producto": "Barbecho",
+        "hectareas": 6.52
+      }
+    ],
+    "total_hectareas": 13.67
+  },
+  {
+    "nombre": "Rio Chepu, Lo tordos",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Arándanos",
+        "hectareas": 14.3
+      }
+    ],
+    "total_hectareas": 14.3
+  },
+  {
+    "nombre": "Rio Chepu, Chaignal",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Arándanos",
+        "hectareas": 41.1
+      }
+    ],
+    "total_hectareas": 41.1
+  },
+  {
+    "nombre": "Valdeperillo",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Viñedo",
+        "hectareas": 1.92
+      },
+      {
+        "producto": "Vegetales",
+        "hectareas": 0.23
+      }
+    ],
+    "total_hectareas": 2.15
+  },
+  {
+    "nombre": "Agricola Mirarios",
+    "fecha_certificacion": "2021-10-27",
+    "certificacion": "Demeter",
+    "estado_adicional": "",
+    "fuente": "Demeter.net (2021)",
+    "productos": [
+      {
+        "producto": "Manzana",
+        "hectareas": 66.46
+      }
+    ],
+    "total_hectareas": 66.46
+  }
+]
