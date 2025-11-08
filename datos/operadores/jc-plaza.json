@@ -1,0 +1,21 @@
+{
+  "productos": [
+    {
+      "producto": "Frutillas",
+      "variedad": null,
+      "superficie_ha": 2.0,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "JC PLAZA",
+  "ciudad": "La Serena",
+  "pais": "Chile",
+  "contacto": "Juan Carlos Plaza",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 1
+}

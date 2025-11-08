@@ -1,0 +1,140 @@
+{
+  "productos": [
+    {
+      "producto": "Cedron",
+      "variedad": "Alosya citrodora",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Geranio",
+      "variedad": "Pelargonium Graveolens",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Geranio",
+      "variedad": "Pelargonium Asperum",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lavanda",
+      "variedad": "Lavandula Angustifolia",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lavanda",
+      "variedad": "Lavandula Stoechas",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lavandin",
+      "variedad": "Lavandin grosso",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lemon grass",
+      "variedad": "Cymbopogon",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Romero",
+      "variedad": "Rosmarinus officinalis",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Romero",
+      "variedad": "Rosmarinus primley blue",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Rosa",
+      "variedad": "Rosa Damascena",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Salvia",
+      "variedad": "Salvia Officinalis",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomillo",
+      "variedad": "Thymus vulgaris",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Vetiver",
+      "variedad": "Chrysopogon zizanioides",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Menta",
+      "variedad": "Piperita",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Menta",
+      "variedad": "Blanca Me",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Poleo",
+      "variedad": "Mentha pulegium",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Melisa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Albahaca",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "ALQUIMIA PURA",
+  "ciudad": "Con Con",
+  "pais": "Chile",
+  "contacto": "Claudia Porzio",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 18
+}

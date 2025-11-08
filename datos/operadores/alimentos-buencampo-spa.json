@@ -1,0 +1,700 @@
+{
+  "productos": [
+    {
+      "producto": "Acedera",
+      "variedad": null,
+      "superficie_ha": 60.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Acelga",
+      "variedad": "Crespa ,lisa y colores",
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ají",
+      "variedad": "Cristal, americano",
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pradera trébol/ballica",
+      "variedad": null,
+      "superficie_ha": 800.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Betarraga hojas",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cilantro",
+      "variedad": "Santos",
+      "superficie_ha": 240.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cibulette",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Frutillas",
+      "variedad": "Camara rosa,",
+      "superficie_ha": 560.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Floresde corte Aster",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores de corte Celosia",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores fde corte clavelinas",
+      "variedad": null,
+      "superficie_ha": 200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores de corte Crisantemo",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores de corte Gradiolos",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Floresde corte Marble",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores de corte Narcisos",
+      "variedad": null,
+      "superficie_ha": 10.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores de corte Statice",
+      "variedad": null,
+      "superficie_ha": 10.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lufa",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Menta",
+      "variedad": null,
+      "superficie_ha": 150.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Kale",
+      "variedad": null,
+      "superficie_ha": 200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Mizuna",
+      "variedad": null,
+      "superficie_ha": 60.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pepino de Invernadero",
+      "variedad": null,
+      "superficie_ha": 400.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Perejil",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pimentón Invernadero",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Rábanito",
+      "variedad": "ruby",
+      "superficie_ha": 240.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Rúcula",
+      "variedad": "rustica,",
+      "superficie_ha": 400.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tatsoi",
+      "variedad": null,
+      "superficie_ha": 60.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate Invernadero",
+      "variedad": null,
+      "superficie_ha": 650.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate Cherry",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallito italiano",
+      "variedad": "ercules",
+      "superficie_ha": 200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cereza",
+      "variedad": null,
+      "superficie_ha": 3500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cedrón",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ciruela silvestres",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ciruela",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Damasco",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Durazno",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Granada",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Laurel",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Limón",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Mandarina",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Manzana",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Membrillo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Naranja",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Nogal",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Olivo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pera",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pomelo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Borraja flor",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomillo fresco y/o seco",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Acelga",
+      "variedad": "Crespa ,lisa y colores",
+      "superficie_ha": 500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Achicoria",
+      "variedad": null,
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ají",
+      "variedad": "cristal, americano, cacho de cabra",
+      "superficie_ha": 70.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Albahaca",
+      "variedad": "chilena",
+      "superficie_ha": 100.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Arvejas",
+      "variedad": "arverjon",
+      "superficie_ha": 500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Apio",
+      "variedad": null,
+      "superficie_ha": 900.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Berenjena",
+      "variedad": null,
+      "superficie_ha": 300.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Brócoli",
+      "variedad": null,
+      "superficie_ha": 1700.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cebollín blanco",
+      "variedad": null,
+      "superficie_ha": 200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Coliflor",
+      "variedad": null,
+      "superficie_ha": 600.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Espinaca",
+      "variedad": null,
+      "superficie_ha": 400.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Frambuesas",
+      "variedad": null,
+      "superficie_ha": 900.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Garbanzo",
+      "variedad": null,
+      "superficie_ha": 600.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Habas",
+      "variedad": "Agua dulce y luz de Otoño",
+      "superficie_ha": 200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": "Marinas, costina,francesas, españolas.",
+      "superficie_ha": 1200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Kale",
+      "variedad": "crespo, toscano, russian, lizo",
+      "superficie_ha": 350.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "choclo",
+      "variedad": "graciela",
+      "superficie_ha": 800.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Choclo dulce",
+      "variedad": null,
+      "superficie_ha": 400.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Maní",
+      "variedad": "valencia",
+      "superficie_ha": 560.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Maíz curagua",
+      "variedad": null,
+      "superficie_ha": 50.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Poroto mum",
+      "variedad": "Mun",
+      "superficie_ha": 700.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pimenton",
+      "variedad": null,
+      "superficie_ha": 70.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Puerro",
+      "variedad": null,
+      "superficie_ha": 140.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Rabanito",
+      "variedad": null,
+      "superficie_ha": 140.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Repollo crespo",
+      "variedad": null,
+      "superficie_ha": 1200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Repollo liso",
+      "variedad": "corazon de buey, redondo",
+      "superficie_ha": 1200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Repollo morado",
+      "variedad": null,
+      "superficie_ha": 800.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Flores calendula",
+      "variedad": null,
+      "superficie_ha": 70.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate",
+      "variedad": null,
+      "superficie_ha": 1000.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate Salsero",
+      "variedad": null,
+      "superficie_ha": 500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo baternut",
+      "variedad": null,
+      "superficie_ha": 1000.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo naranja",
+      "variedad": null,
+      "superficie_ha": 500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo camote",
+      "variedad": null,
+      "superficie_ha": 1500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Limón",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Parras",
+      "variedad": "Pais",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Paltos",
+      "variedad": "palta chilena",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "PAlfalfa",
+      "variedad": null,
+      "superficie_ha": 2500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Acelga",
+      "variedad": "penca blanca",
+      "superficie_ha": 1200.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Betarraga",
+      "variedad": "chata egipto",
+      "superficie_ha": 500.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Arveja",
+      "variedad": null,
+      "superficie_ha": 240.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cilantro",
+      "variedad": null,
+      "superficie_ha": 150.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Kale",
+      "variedad": "russian",
+      "superficie_ha": 300.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Lechuga",
+      "variedad": null,
+      "superficie_ha": 1000.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Haba",
+      "variedad": "Agua Dulce",
+      "superficie_ha": 5000.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Papa",
+      "variedad": null,
+      "superficie_ha": 1300.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pepino ensalada",
+      "variedad": "Marketmore",
+      "superficie_ha": 600.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zanahoria",
+      "variedad": null,
+      "superficie_ha": 700.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Choclos",
+      "variedad": null,
+      "superficie_ha": 2000.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallito Italiano",
+      "variedad": null,
+      "superficie_ha": 1000.0,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "Alimentos Buencampo SPA",
+  "ciudad": "CHEPICA",
+  "pais": "Chile",
+  "contacto": "ROSITA SALINAS",
+  "whatsapp": "56990436406.0",
+  "email": "rosita@buencampo.cl",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 98
+}

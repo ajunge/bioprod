@@ -1,0 +1,20 @@
+{
+  "nombre": "Odfjell P.Hurtado",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Viñedo",
+      "hectareas": 68.4
+    },
+    {
+      "producto": "Barbecho",
+      "hectareas": 13.2
+    }
+  ],
+  "total_productos": 2,
+  "total_hectareas": 81.60000000000001
+}

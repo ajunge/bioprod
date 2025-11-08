@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "producto": "Arandano",
+      "variedad": null,
+      "superficie_ha": 3.5,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "frambuesa",
+      "variedad": null,
+      "superficie_ha": 0.85,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "Arandano y nativas",
+      "variedad": null,
+      "superficie_ha": 0.01,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "Pradera natural",
+      "variedad": null,
+      "superficie_ha": 2.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "alfalfa - Avena Vicia",
+      "variedad": null,
+      "superficie_ha": 4.0,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "LETICIA VALLEJOS",
+  "ciudad": "Ñuble",
+  "pais": "Chile",
+  "contacto": "Osvaldo Monsalve",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 5
+}

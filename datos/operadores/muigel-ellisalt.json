@@ -1,0 +1,48 @@
+{
+  "nombre": "Muigel Ellisalt",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "frambuesa",
+      "hectareas": 0.6
+    },
+    {
+      "producto": "Manzana",
+      "hectareas": 64.41
+    },
+    {
+      "producto": "Kiwi",
+      "hectareas": 0.5
+    },
+    {
+      "producto": "peras",
+      "hectareas": 14.8
+    },
+    {
+      "producto": "Vegetales",
+      "hectareas": 0.5
+    },
+    {
+      "producto": "avena",
+      "hectareas": 6.31
+    },
+    {
+      "producto": "trigo",
+      "hectareas": 1.2
+    },
+    {
+      "producto": "Barbecho",
+      "hectareas": 16.62
+    },
+    {
+      "producto": "Seedlings",
+      "hectareas": 2.76
+    }
+  ],
+  "total_productos": 9,
+  "total_hectareas": 107.7
+}

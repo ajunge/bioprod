@@ -1,0 +1,258 @@
+[
+  {
+    "id": "agr-ceres",
+    "nombre": "Agr Ceres",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 32.730000000000004
+  },
+  {
+    "id": "agricola-calendula-ltda",
+    "nombre": "Agricola Calendula Ltda",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 94,
+    "ciudad": "PUERTO OCTAY",
+    "email": "mrlischka@gmail.com",
+    "whatsapp": "56998836130.0"
+  },
+  {
+    "id": "agricola-mirarios",
+    "nombre": "Agricola Mirarios",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 66.46
+  },
+  {
+    "id": "alimentos-buencampo-spa",
+    "nombre": "Alimentos Buencampo SPA",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 98,
+    "ciudad": "CHEPICA",
+    "email": "rosita@buencampo.cl",
+    "whatsapp": "56990436406.0"
+  },
+  {
+    "id": "alquimia-pura",
+    "nombre": "ALQUIMIA PURA",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 18,
+    "ciudad": "Con Con"
+  },
+  {
+    "id": "antiyal",
+    "nombre": "Antiyal",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 4,
+    "total_hectareas": 10.94
+  },
+  {
+    "id": "araucano",
+    "nombre": "Araucano",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 28.06
+  },
+  {
+    "id": "crisol",
+    "nombre": "CRISOL",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 12,
+    "ciudad": "La Cruz",
+    "email": "marcelagarciato@gmail.com",
+    "whatsapp": "56985374849.0"
+  },
+  {
+    "id": "el-molino",
+    "nombre": "EL MOLINO",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 42,
+    "ciudad": "Buin"
+  },
+  {
+    "id": "emiliana-casablanca-y-cordillera",
+    "nombre": "Emiliana Casablanca y Cordillera",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 273.47
+  },
+  {
+    "id": "emiliana-las-palmeras",
+    "nombre": "Emiliana las palmeras",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 127.73
+  },
+  {
+    "id": "emiliana-los-morros",
+    "nombre": "Emiliana Los Morros",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 47.94
+  },
+  {
+    "id": "emiliana-los-robles",
+    "nombre": "Emiliana Los robles",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 150.07
+  },
+  {
+    "id": "emiliana-totihue",
+    "nombre": "Emiliana Totihue",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 3,
+    "total_hectareas": 146.51
+  },
+  {
+    "id": "fanoa",
+    "nombre": "Fanoa",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 4,
+    "total_hectareas": 13.67
+  },
+  {
+    "id": "huertos-huaiquivilo",
+    "nombre": "HUERTOS HUAIQUIVILO",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "Certificado",
+    "total_productos": 8,
+    "ciudad": "Longavi"
+  },
+  {
+    "id": "jc-plaza",
+    "nombre": "JC PLAZA",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 1,
+    "ciudad": "La Serena"
+  },
+  {
+    "id": "koyle",
+    "nombre": "Koyle",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 66.27
+  },
+  {
+    "id": "leticia-vallejos",
+    "nombre": "LETICIA VALLEJOS",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 5,
+    "ciudad": "Ñuble"
+  },
+  {
+    "id": "martini",
+    "nombre": "Martini",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 28.599999999999998
+  },
+  {
+    "id": "matetic-el-rosario",
+    "nombre": "Matetic El rosario",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 3,
+    "total_hectareas": 167.98000000000002
+  },
+  {
+    "id": "muigel-ellisalt",
+    "nombre": "Muigel Ellisalt",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 9,
+    "total_hectareas": 107.7
+  },
+  {
+    "id": "odfjell-phurtado",
+    "nombre": "Odfjell P.Hurtado",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 81.60000000000001
+  },
+  {
+    "id": "odfjell-rio-claro",
+    "nombre": "Odfjell Rio Claro",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 6.53
+  },
+  {
+    "id": "odfjell-tres-esquinas",
+    "nombre": "Odfjell Tres esquinas",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 16.9
+  },
+  {
+    "id": "rio-chepu-chaignal",
+    "nombre": "Rio Chepu, Chaignal",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 41.1
+  },
+  {
+    "id": "rio-chepu-lo-tordos",
+    "nombre": "Rio Chepu, Lo tordos",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 1,
+    "total_hectareas": 14.3
+  },
+  {
+    "id": "santa-ana",
+    "nombre": "SANTA ANA",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 9,
+    "ciudad": "La Serena",
+    "email": "egalvezy@hotmail.com",
+    "whatsapp": "56968579120.0"
+  },
+  {
+    "id": "tipaume",
+    "nombre": "Tipaume",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 4,
+    "total_hectareas": 16.84
+  },
+  {
+    "id": "truferos-grau",
+    "nombre": "TRUFEROS GRAU",
+    "tipo": "Sistema Participativo de Garantía",
+    "certificacion": "En transicion",
+    "total_productos": 1,
+    "ciudad": "Futrono"
+  },
+  {
+    "id": "valdeperillo",
+    "nombre": "Valdeperillo",
+    "tipo": "Certificación Demeter",
+    "certificacion": "Demeter",
+    "total_productos": 2,
+    "total_hectareas": 2.15
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "productos": [
+    {
+      "producto": "Manzano",
+      "variedad": "Fuji",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Manzano",
+      "variedad": "Royal Gala",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Manzano",
+      "variedad": "Verde",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Duraznero",
+      "variedad": "Conservero",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Damasco",
+      "variedad": "sin informacion",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Nogal",
+      "variedad": "sin informacion",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pera",
+      "variedad": "sin informacion",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ciruelo",
+      "variedad": "D´Agen",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Uva",
+      "variedad": "Ribier",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Membrillo",
+      "variedad": "sin informacion",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Chileno",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ajo",
+      "variedad": "Chilote",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Chalota",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Habas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Frambuesa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Mora",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Melon",
+      "variedad": "Amarillo",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Poroto",
+      "variedad": "Negro",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Sandia",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate cherry",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate Perita",
+      "variedad": "Perita",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Tomate",
+      "variedad": "Corazon de buey",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Topinambur",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Trigo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo",
+      "variedad": "Butternut",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo",
+      "variedad": "Yamboree",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallo",
+      "variedad": "Camote",
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Menta",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Diente de leon",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "100 atado"
+    },
+    {
+      "producto": "Romero",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "300 atado"
+    },
+    {
+      "producto": "Cedron",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "150 atado"
+    },
+    {
+      "producto": "Melissa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "120 atado"
+    },
+    {
+      "producto": "Matico",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "150 atado"
+    },
+    {
+      "producto": "Llantén",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "100 atado"
+    },
+    {
+      "producto": "Lavanda",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "100 atado"
+    },
+    {
+      "producto": "Paico",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "50 atado"
+    },
+    {
+      "producto": "Poleo Arbustivo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "200 atado"
+    },
+    {
+      "producto": "Orégano",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "100 atado"
+    },
+    {
+      "producto": "Ciboulette",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "60 atado"
+    },
+    {
+      "producto": "Aranto",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Cactus y suculentas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Ruda",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "200 atado"
+    }
+  ],
+  "nombre": "EL MOLINO",
+  "ciudad": "Buin",
+  "pais": "Chile",
+  "contacto": "Harry Lee",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 42
+}

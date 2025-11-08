@@ -1,0 +1,16 @@
+{
+  "nombre": "Odfjell Tres esquinas",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Viñedo",
+      "hectareas": 16.9
+    }
+  ],
+  "total_productos": 1,
+  "total_hectareas": 16.9
+}

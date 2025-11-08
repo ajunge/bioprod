@@ -1,0 +1,98 @@
+{
+  "productos": [
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 1.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 1.7,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 1.2,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Hortalizas",
+      "variedad": null,
+      "superficie_ha": 0.1,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Paltos (primavera 21)",
+      "variedad": null,
+      "superficie_ha": 0.1,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Pastura Mixta (primavera 21)",
+      "variedad": null,
+      "superficie_ha": 0.1,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 1.45,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Hortalizas",
+      "variedad": null,
+      "superficie_ha": 0.05,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 1.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto",
+      "variedad": null,
+      "superficie_ha": 0.9,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Palto Hass",
+      "variedad": null,
+      "superficie_ha": 0.4,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Paltos y Frutales varios ( duraznos, manzanos, perales, nogales, almendros, damascos, ciruelas, naranjos, feijoa boysenberry, frambuesa)",
+      "variedad": null,
+      "superficie_ha": 0.4,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "CRISOL",
+  "ciudad": "La Cruz",
+  "pais": "Chile",
+  "contacto": "Marcela Garcia",
+  "whatsapp": "56985374849.0",
+  "email": "marcelagarciato@gmail.com",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 12
+}

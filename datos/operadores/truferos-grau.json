@@ -1,0 +1,21 @@
+{
+  "productos": [
+    {
+      "producto": "Trufas",
+      "variedad": null,
+      "superficie_ha": 10.0,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "TRUFEROS GRAU",
+  "ciudad": "Futrono",
+  "pais": "Chile",
+  "contacto": "Jordi Grau",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 1
+}

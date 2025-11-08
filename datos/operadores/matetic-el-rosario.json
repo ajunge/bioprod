@@ -1,0 +1,24 @@
+{
+  "nombre": "Matetic El rosario",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Viñedo",
+      "hectareas": 130.48
+    },
+    {
+      "producto": "Barbecho",
+      "hectareas": 37.2
+    },
+    {
+      "producto": "Seedlings",
+      "hectareas": 0.3
+    }
+  ],
+  "total_productos": 3,
+  "total_hectareas": 167.98000000000002
+}

@@ -1,0 +1,77 @@
+{
+  "productos": [
+    {
+      "producto": "Chirimoyos",
+      "variedad": null,
+      "superficie_ha": 3.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Papayos",
+      "variedad": null,
+      "superficie_ha": 0.03,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Frambuesas",
+      "variedad": null,
+      "superficie_ha": 0.06,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Zapallos italianos",
+      "variedad": null,
+      "superficie_ha": 0.09,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Praderas de mezcla forrajera",
+      "variedad": null,
+      "superficie_ha": 1.7,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Praderas de mezcla forrajera",
+      "variedad": null,
+      "superficie_ha": 2.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Alfalfa (sin sembrar aún)",
+      "variedad": null,
+      "superficie_ha": 3.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Alfalfa",
+      "variedad": null,
+      "superficie_ha": 6.5,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "Alfalfa",
+      "variedad": null,
+      "superficie_ha": 4.5,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "SANTA ANA",
+  "ciudad": "La Serena",
+  "pais": "Chile",
+  "contacto": "Eduardo Galvez",
+  "whatsapp": "56968579120.0",
+  "email": "egalvezy@hotmail.com",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 9
+}

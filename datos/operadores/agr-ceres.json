@@ -1,0 +1,20 @@
+{
+  "nombre": "Agr Ceres",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Arándanos",
+      "hectareas": 31.03
+    },
+    {
+      "producto": "frutas",
+      "hectareas": 1.7
+    }
+  ],
+  "total_productos": 2,
+  "total_hectareas": 32.730000000000004
+}

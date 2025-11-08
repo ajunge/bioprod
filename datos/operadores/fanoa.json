@@ -1,0 +1,28 @@
+{
+  "nombre": "Fanoa",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Viñedo",
+      "hectareas": 2.14
+    },
+    {
+      "producto": "Vegetales",
+      "hectareas": 0.5
+    },
+    {
+      "producto": "grassland",
+      "hectareas": 4.51
+    },
+    {
+      "producto": "Barbecho",
+      "hectareas": 6.52
+    }
+  ],
+  "total_productos": 4,
+  "total_hectareas": 13.67
+}

@@ -1,0 +1,672 @@
+{
+  "productos": [
+    {
+      "producto": "producto",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ajo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "acelga",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "acelga",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "alcachofas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "alcachofas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "arandanos",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "arvejas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "arvejas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "betarragas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "boldo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "borraja",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "borraja flor",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "calendula flor",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "cedrón",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "centeno",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "cerezas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "chalotas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ciboulette",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ciboulette",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "cilantro",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ciruela",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ciruela",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "espinacas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "frambuesas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "frambuesas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "frambuesas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "grosellas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "habas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "habas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "hinojo semillas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "hinojo papa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "kale",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "kale morada",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "kale",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "kale verde",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "laurel cocina",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lavanda",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lechugas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lechugas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lechugas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lenteja rosada",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "lenteja rosada",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "maggi",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "manzanas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "manzanas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "matico",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "matuerzo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "matuerzo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "melisa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "menta",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "mosquetas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "murtas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "murtas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "3 kilos por arbusto"
+    },
+    {
+      "producto": "murtas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "narcisos (flores)",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "oca",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ortigas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "poleo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "papa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "papa nativa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "papa nativa",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "pepinos",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "peras",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "peras asiaticas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "perejil",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "porotos",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "portulak",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "praderas",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "puerro",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "rabanitos",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "raiz picante",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ranunculos (flores)",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "repollo blanco",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "repollo blanco",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "repollo morado",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "repollo morado",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "romero",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "rúcula",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ruibarbo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "30 varitas por planta"
+    },
+    {
+      "producto": "salvia",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "sauco",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "5 kilos por arbusto"
+    },
+    {
+      "producto": "tilo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "topinambur",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "1,5 kilos por m2"
+    },
+    {
+      "producto": "topinambur",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": "1,5 kilos por m2"
+    },
+    {
+      "producto": "tomate",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "trigo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "vinagrillo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "zanahorias",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "zapallo",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "zapallo italiano",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "zarzaparrilla negra",
+      "variedad": null,
+      "superficie_ha": null,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "ovejas",
+      "variedad": null,
+      "superficie_ha": 450.0,
+      "destino": "Local",
+      "observaciones": null
+    },
+    {
+      "producto": "vacunos",
+      "variedad": null,
+      "superficie_ha": 202.0,
+      "destino": "Local",
+      "observaciones": null
+    }
+  ],
+  "nombre": "Agricola Calendula Ltda",
+  "ciudad": "PUERTO OCTAY",
+  "pais": "CHILE",
+  "contacto": "Matthias Lischka",
+  "whatsapp": "56998836130.0",
+  "email": "mrlischka@gmail.com",
+  "certificacion": "En transicion",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 94
+}

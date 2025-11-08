@@ -1,0 +1,70 @@
+{
+  "productos": [
+    {
+      "producto": "MANZANO",
+      "variedad": null,
+      "superficie_ha": 64.41,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "PERA",
+      "variedad": null,
+      "superficie_ha": 18.3,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "AVENA",
+      "variedad": null,
+      "superficie_ha": 2.81,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "TRIGO",
+      "variedad": null,
+      "superficie_ha": 1.2,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "KIWI",
+      "variedad": null,
+      "superficie_ha": 0.5,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "FRAMBUESA",
+      "variedad": null,
+      "superficie_ha": 0.6,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "CHACRA Y HORTALIZAS",
+      "variedad": null,
+      "superficie_ha": 0.5,
+      "destino": "Exportacion",
+      "observaciones": null
+    },
+    {
+      "producto": "VIVERO MANZANOS Y PERALES",
+      "variedad": null,
+      "superficie_ha": 2.76,
+      "destino": "Exportacion",
+      "observaciones": null
+    }
+  ],
+  "nombre": "HUERTOS HUAIQUIVILO",
+  "ciudad": "Longavi",
+  "pais": "Chile",
+  "contacto": "Miguel Elissalt",
+  "whatsapp": "",
+  "email": "",
+  "certificacion": "Certificado",
+  "fuente": "SPG",
+  "tipo_fuente": "Sistema Participativo de Garantía",
+  "total_productos": 8
+}

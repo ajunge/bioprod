@@ -1,0 +1,16 @@
+{
+  "nombre": "Rio Chepu, Lo tordos",
+  "certificacion": "Demeter",
+  "fecha_certificacion": "2021-10-27",
+  "estado_adicional": "",
+  "fuente": "Demeter.net (2021)",
+  "tipo_fuente": "Certificación Demeter",
+  "productos": [
+    {
+      "producto": "Arándanos",
+      "hectareas": 14.3
+    }
+  ],
+  "total_productos": 1,
+  "total_hectareas": 14.3
+}
